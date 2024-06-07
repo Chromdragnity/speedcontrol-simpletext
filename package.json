@@ -12,9 +12,9 @@
   },
   "homepage": "https://github.com/speedcontrol/speedcontrol-simpletext#readme",
   "nodecg": {
-    "compatibleRange": "^1.5.0",
+    "compatibleRange": "^2",
     "bundleDependencies": {
-      "nodecg-speedcontrol": "^2.0.0"
+      "nodecg-speedcontrol": "^2"
     },
     "graphics": [
       {
